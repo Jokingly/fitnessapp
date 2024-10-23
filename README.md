@@ -60,15 +60,15 @@ Password: demo
 
 Login Page
 
-![fitnessapp login](https://i.imgur.com/7sLOoNo.png)
+![fitnessapp login](https://imgur.com/0nRENWn.png)
 
 Login Details Registration
 
-![fitnessapp registerlogin](https://imgur.com/w2DHIcf.png)
+![fitnessapp registerlogin](https://imgur.com/OEdW5al.png)
 
 Profile Details Registration
 
-![fitnessapp registerdetails](https://i.imgur.com/O2P5OPk.png)
+![fitnessapp registerdetails](https://imgur.com/3qs55ZN.png)
 
 Logged-in User Homepage
 
@@ -80,11 +80,11 @@ Workout History Page
 
 Create Workout
 
-![fitnessapp createworkout](https://i.imgur.com/5dcKb9X.png)
+![fitnessapp createworkout](https://imgur.com/GvSjWmD.png)
 
 Workout Page
 
-![fitnessapp workout](https://i.imgur.com/W4jMJ9p.png)
+![fitnessapp workout](https://imgur.com/YjSUYH5.png)
 
 Exercise Autosuggestion
 
@@ -92,11 +92,11 @@ Exercise Autosuggestion
 
 Add Set Feature
 
-![fitnessapp addset](https://imgur.com/en5K5mN.png)
+![fitnessapp addset](https://imgur.com/J2ckTaE.png)
 
 Edit Set Feature
 
-![fitnessapp editset](https://imgur.com/Q5L8pr2.png)
+![fitnessapp editset](https://imgur.com/UXBpuvR.png)
 
 Profile Page
 
@@ -108,7 +108,7 @@ Edit Profile Page
 
 Change Password Page
 
-![fitnessapp changepassword](https://i.imgur.com/1U6Emo0.png)
+![fitnessapp changepassword](https://imgur.com/m6WHILq.png)
 
 Workout Analytics Page
 
