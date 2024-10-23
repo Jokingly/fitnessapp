@@ -87,8 +87,9 @@ document.addEventListener("DOMContentLoaded", function() {
     // populate exercises list with API data
     function fetchExercises() {
 
-        // fetch(`http://127.0.0.1:5000/exercise`)
-        fetch(`https://fitnessapp-2bdb.onrender.com/exercise`)
+        // Update URL, if app is being hosted somewhere
+        // fetch(`INSERT HOSTED URL/exercise`)
+        fetch(`http://127.0.0.1:5000/exercise`)
             .then((response) => response.json())
             .then((data) => {
                 // return array of exercise names

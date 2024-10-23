@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
 import string
-from datetime import datetime
 
+from datetime import datetime
 
 # Keeping cs50 SQL, to save from rewriting all SQL queries (query syntax, outputs(dictonaries to list of tuples))
 from cs50 import SQL

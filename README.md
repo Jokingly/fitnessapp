@@ -88,7 +88,7 @@ Workout Page
 
 Exercise Autosuggestion
 
-![fitnessapp autosuggestion](https://i.imgur.com/a09TUcY.png)
+![fitnessapp autosuggestion](https://imgur.com/MPbSrdL.png)
 
 Add Set Feature
 
